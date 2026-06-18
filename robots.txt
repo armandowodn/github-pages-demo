@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://6a338738494157958bc2b074--lustrous-bubblegum-9e2a95.netlify.app/sitemap.xml
+Sitemap: https://lustrous-bubblegum-9e2a95.netlify.app/sitemap.xml

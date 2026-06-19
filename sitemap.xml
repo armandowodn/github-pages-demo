@@ -8,5 +8,7 @@
   </url>
   <url>
     <loc>https://armandowodn.github.io/github-pages-demo/about.html</loc>
-  </url>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+</url>
 </urlset>
